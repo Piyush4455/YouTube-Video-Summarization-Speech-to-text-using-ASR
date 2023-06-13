@@ -21,8 +21,8 @@ YouTube Video Summarizer is a Python project that aims to provide a convenient w
 ```
 
 ## USAGE ##
-1.Run the YouTube_Video_Summarizer_Speech_to_Text_ASR.ipynb notebook.
-2.Replace `video_link` with the URL of the YouTube video you want to summarize.
-3.It will download the video, convert the audio to .wav format, perform automatic speech recognition (ASR) using the fine-tuned model, chunk the audio, and generate a summarized transcript.
-4.The summarized text will be displayed.
+1.Run the YouTube_Video_Summarizer_Speech_to_Text_ASR.ipynb notebook.<br />
+2.Replace `video_link` with the URL of the YouTube video you want to summarize.<br />
+3.It will download the video, convert the audio to .wav format, perform automatic speech recognition (ASR) using the fine-tuned model, chunk the audio, and generate a summarized transcript.<br />
+4.The summarized text will be displayed.<br />
 
