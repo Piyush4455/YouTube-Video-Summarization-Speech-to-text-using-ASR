@@ -11,7 +11,9 @@ YouTube Video Summarizer is a Python project that aims to provide a convenient w
 
 ## Installation ##
 1. Clone the repository:
-```git clone https://github.com/Piyush4455/YouTube-Video-Summarization-Speech-to-text-using-ASR.git```
+```
+git clone https://github.com/Piyush4455/YouTube-Video-Summarization-Speech-to-text-using-ASR.git
+```
 2. Change to the project directory:
 ```cd YouTube-Video-Summarization-Speech-to-text-using-ASR
 ```
